@@ -1,2 +1,2 @@
 # calci
-A scientific calculator using Python
+A scientific calculator using Python Tkinter library
