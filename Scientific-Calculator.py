@@ -2,7 +2,6 @@ from tkinter import * #importing tkinter module
 import numpy as np #importing numpy module
 import math     #importing math module
 
-
 def btnClick(numbers):  #this function is evoked when number buttons are clicked in the calculator
     global operator   #operator is globally defined
     operator=operator+str(numbers) #stores the numbers that are clicked in the form of a string
